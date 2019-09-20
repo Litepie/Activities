@@ -21,7 +21,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Lavalite\\Activities\\": ""
+            "Litepie\\Activities\\": ""
         },
         "files": [
             "helpers.php"
